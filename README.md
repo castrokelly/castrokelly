@@ -1,5 +1,5 @@
 # Hi, I'm Kelly!
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kechrist?cursus=Basecamp)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kechrist?cursus=Basecamp?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/kedecastro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/kedecastro/)
@@ -9,4 +9,3 @@
 - I'm a Web Designer at [Contraktor | Contratos Digitais](https://contraktor.com.br/).&nbsp;
 - Software Engineer student at [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/).&nbsp;
 - Camper at [42SP](https://42sp.org.br)
-- [decastro.dev](https://decastro.dev/)
