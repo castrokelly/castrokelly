@@ -10,6 +10,4 @@
 - Software Engineer student at [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/);
 - Camper at [42SP](https://42sp.org.br).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kedecastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/kedecastro/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kedecastro&theme=dracula)](https://github.com/kedecastro/github-readme-streak-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedecastro&layout=compact&langs_count=7&theme=dracula)](https://github.com/kedecastro/github-readme-stats)
