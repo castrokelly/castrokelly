@@ -8,6 +8,7 @@
 ### About me
 - I'm a Web Designer at [Contraktor | Contratos Digitais](https://contraktor.com.br/);
 - Software Engineer Undergraduate;
-- [École 42SP](https://42sp.org.br) Student.
+- [École 42SP](https://42sp.org.br) Student;
+- Master's Degree in Java Technology at [UTFPR](http://pos-graduacao-ead.cp.utfpr.edu.br/java/)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedecastro&layout=compact&langs_count=7&theme=dracula)](https://github.com/kedecastro/github-readme-stats)
