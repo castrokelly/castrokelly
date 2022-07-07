@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kellydecastro)](https://kellydecastro.medium.com/)
 
 ### About me
-- I'm a Web Designer at [Contraktor | Contratos Digitais](https://contraktor.com.br/);
+- I'm a Web Developer;
 - Software Engineer Undergraduate;
 - Master's Degree in Java Technology at [UTFPR](http://pos-graduacao-ead.cp.utfpr.edu.br/java/)
 
