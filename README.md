@@ -5,8 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kellydecastro)](https://kellydecastro.medium.com/)
 
 ### About me
-- I'm a Web Developer;
-- Software Engineer Undergraduate;
-- Master's Degree in Java Technology at [UTFPR](http://pos-graduacao-ead.cp.utfpr.edu.br/java/)
+
+- Software Engineering Student;
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=castrokelly&layout=compact&langs_count=7&theme=dracula)](https://github.com/kedecastro/github-readme-stats)
