@@ -6,6 +6,6 @@
 
 ### About me
 
-Software & Data Engineering.
+Digital Transformation | Data Engineering | DataViz, BI and Analitycs
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=castrokelly&layout=compact&langs_count=7&theme=dracula)](https://github.com/kedecastro/github-readme-stats)
