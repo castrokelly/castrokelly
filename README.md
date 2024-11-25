@@ -5,4 +5,4 @@
 
 ### About me
 
-Digital Transformation | Data Engineering | DataViz, BI and Analitycs.
+Analytics Engineering & Data Science
