@@ -5,4 +5,4 @@
 
 ### About me
 
-Analytics Engineering & Data Science
+Big Data Engineering & Data Science
