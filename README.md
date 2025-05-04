@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 # Welcome, I'm Kelly!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/castrokelly)](https://www.linkedin.com/in/castrokelly/)
