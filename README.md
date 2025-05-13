@@ -13,4 +13,4 @@ My expertise includes Python (Scikit-learn, Pandas, NumPy), SQL, JavaScript, AWS
 
 Committed to promoting Free Software and digital innovation, my goal is always to develop solutions that minimize waste, enhance collective performance, and foster continuous learning.
 
-📌 Download CV: https://kelly.decastro.com.br/curriculumvitae.pdf
+📌 Download CV: https://kelly.decastro.com.br/resume.pdf
