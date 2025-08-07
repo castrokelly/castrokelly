@@ -15,7 +15,8 @@ Most recently, I delivered a Quality Notifications platform in SLB OneSubsea, th
 
 I thrive in Agile squads, collaborating with engineers, simulation experts and product teams. I’m fluent in Python, SQL, DAX and CI/CD tools (Azure DevOps, GitHub Actions), and I’m sharpening my Kubernetes skills in preparation for CKAD.
 
-🔗 Resume: (https://kelly.decastro.com.br)
-🔗 Stack Overflow: [stackoverflow.com/users/18042741/kelly-de-castro](https://stackoverflow.com/users/18042741/kelly-de-castro)
+🔗 Resume: [kelly.decastro.com.br](https://kelly.decastro.com.br)
+
+🔗 Stack Overflow: [users/18042741/kelly-de-castro](https://stackoverflow.com/users/18042741/kelly-de-castro)
 
 Let’s connect! I'd love to explore how we can use data and DevOps to drive measurable impact together!
