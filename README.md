@@ -9,7 +9,7 @@ I’m Kelly Castro 👋, a Data Engineer & DevOps enthusiast who loves turning c
 
 At SLB OneSubsea, I modernized our ISO 50001 compliance process by automating energy-data ingestion and reporting. Using Event Hubs → ADLS Gen2 → Azure Databricks and Data Factory, I replaced weeks of manual work with real-time Power BI dashboards, cutting audit prep from days to hours.
 
-I also led ARBOSOCIAL: an open-source arbovirus prediction system (https://github.com/data-lab-org/ARBOSOCIAL). By integrating social, climate and health data, building ensemble ML models in PySpark and scikit-learn, and surfacing results in interactive notebooks, we achieved over 85% accuracy and supported early-warning efforts in pilot regions.
+I also led ARBOSOCIAL: an open-source arbovirus prediction system [data-lab-org/ARBOSOCIAL](https://github.com/data-lab-org/ARBOSOCIAL). By integrating social, climate and health data, building ensemble ML models in PySpark and scikit-learn, and surfacing results in interactive notebooks, we achieved over 85% accuracy and supported early-warning efforts in pilot regions.
 
 Most recently, I delivered a Quality Notifications platform in SLB OneSubsea, that slashed our SLA from 20 to 7 days and boosted operational efficiency by 15%. Streaming SAP alerts into Event Hubs, processing them with Databricks, and visualizing in Power BI (all provisioned via Terraform and CI/CD pipelines), our team now focuses on solving root causes instead of wrangling spreadsheets.
 
