@@ -5,12 +5,17 @@
 
 ### About me
 
-"I leverage data as strategic assets for smart decisions."
+I’m Kelly Castro 👋, a Data Engineer & DevOps enthusiast who loves turning complex data into clear, strategic insights. Over the past decade, I've designed and built cloud-native platforms on Microsoft Azure, always with an eye on delivering real business value.
 
-As a Software Engineer specialized in Big Data and Data Engineering (Poli-USP) with an MBA in Data Science (ICMC-USP), I bring over 10 years of experience leading innovative technology projects. Currently working in Continuous Improvement and Digital Transformation, I build high-performance databases, data models, pipelines, and complex ETL processes, using advanced analytics and predictive modeling to deliver measurable business results—such as a 15% increase in operational efficiency (resolution of non-compliance notifications) and achieving ISO 50001 certification in energy efficiency.
+At SLB OneSubsea, I modernized our ISO 50001 compliance process by automating energy-data ingestion and reporting. Using Event Hubs → ADLS Gen2 → Azure Databricks and Data Factory, I replaced weeks of manual work with real-time Power BI dashboards, cutting audit prep from days to hours.
 
-My expertise includes Python (Scikit-learn, Pandas, NumPy), SQL, JavaScript, AWS (EC2, Lightsail, SageMaker), Azure (Data Factory, Databricks, Fabric), Power BI, SAP S/4HANA, and Agile methodologies.
+I also led ARBOSOCIAL: an open-source arbovirus prediction system (https://github.com/data-lab-org/ARBOSOCIAL). By integrating social, climate and health data, building ensemble ML models in PySpark and scikit-learn, and surfacing results in interactive notebooks, we achieved over 85% accuracy and supported early-warning efforts in pilot regions.
 
-Committed to promoting Free Software and digital innovation, my goal is always to develop solutions that minimize waste, enhance collective performance, and foster continuous learning.
+Most recently, I delivered a Quality Notifications platform in SLB OneSubsea, that slashed our SLA from 20 to 7 days and boosted operational efficiency by 15%. Streaming SAP alerts into Event Hubs, processing them with Databricks, and visualizing in Power BI (all provisioned via Terraform and CI/CD pipelines), our team now focuses on solving root causes instead of wrangling spreadsheets.
 
-📌 Download CV: https://kelly.decastro.com.br/resume.pdf
+I thrive in Agile squads, collaborating with engineers, simulation experts and product teams. I’m fluent in Python, SQL, DAX and CI/CD tools (Azure DevOps, GitHub Actions), and I’m sharpening my Kubernetes skills in preparation for CKAD.
+
+🔗 Resume: (https://kelly.decastro.com.br)
+🔗 GitHub: [stackoverflow.com/users/18042741/kelly-de-castro](https://stackoverflow.com/users/18042741/kelly-de-castro)
+
+Let’s connect! I'd love to explore how we can use data and DevOps to drive measurable impact together!
