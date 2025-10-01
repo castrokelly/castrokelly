@@ -14,7 +14,9 @@ Since 2015 I have been immersed in the open‑source and startup ecosystems, col
 Beyond my professional roles, I spearheaded ARBOSOCIAL: an open-source arbovirus prediction system [data-lab-org/ARBOSOCIAL](https://github.com/data-lab-org/ARBOSOCIAL). By integrating social, climate and health data, building ensemble ML models in PySpark and scikit-learn, and surfacing results in interactive notebooks, we achieved over 85% accuracy and supported early-warning efforts in pilot regions.
 
 🔗 Resume: [kelly.decastro.com.br](https://kelly.decastro.com.br)
+
 🔗 Stack Overflow: [users/18042741/kelly-de-castro](https://stackoverflow.com/users/18042741/kelly-de-castro)
+
 🔗 Current focus: [data-lab.org](https://data‑lab.org/)
 
-Let’s connect! kelly(at)decastro.com
+Let’s connect!
