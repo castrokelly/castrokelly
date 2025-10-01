@@ -5,9 +5,13 @@
 
 ### About me
 
-I’m Kelly Castro 👋, a Data Engineer & DevOps enthusiast who loves turning complex data into clear, strategic insights. Over the past decade, I've designed and built cloud-native platforms on Microsoft Azure, always with an eye on delivering real business value.
+I ask data the right questions to turn raw numbers into strategic decisions.
 
-At SLB OneSubsea, I modernized our ISO 50001 compliance process by automating energy-data ingestion and reporting. Using Event Hubs → ADLS Gen2 → Azure Databricks and Data Factory, I replaced weeks of manual work with real-time Power BI dashboards, cutting audit prep from days to hours.
+I work seamlessly across descriptive and inferential analysis, statistical modeling, Business Intelligence and data product development. My solid background in software engineering informs my CI/CD practices and enables me to contribute smoothly to Agile teams.
+
+My expertise encompasses time-series analysis, classical machine learning, deep learning and large language models (LLMs), as well as complex interactive visualizations built with React and d3.js. For more than 3 years I’ve worked with Microsoft Azure cloud services (including ADF, Databricks, Azure ML and Power BI) while specializing in SQL query optimization and advanced Python programming using frameworks such as Flask, FastAPI, scikit‑learn, PyTorch and Streamlit.
+
+Since 2015 I have been immersed in the open‑source and startup ecosystems, collaborating with high‑performing, cross‑functional teams. Over the past 3 years I have contributed to data teams in complex industrial settings, focusing on anomaly‑detection systems, recommendation engines and computer‑vision projects: boosting operational efficiency, advancing Industry 4.0 initiatives and delivering measurable profits.
 
 I also led ARBOSOCIAL: an open-source arbovirus prediction system [data-lab-org/ARBOSOCIAL](https://github.com/data-lab-org/ARBOSOCIAL). By integrating social, climate and health data, building ensemble ML models in PySpark and scikit-learn, and surfacing results in interactive notebooks, we achieved over 85% accuracy and supported early-warning efforts in pilot regions.
 
@@ -16,7 +20,7 @@ Most recently, I delivered a Quality Notifications platform in SLB OneSubsea, th
 I thrive in Agile squads, collaborating with engineers, simulation experts and product teams. I’m fluent in Python, SQL, DAX and CI/CD tools (Azure DevOps, GitHub Actions), and I’m sharpening my Kubernetes skills in preparation for CKAD.
 
 🔗 Resume: [kelly.decastro.com.br](https://kelly.decastro.com.br)
-
 🔗 Stack Overflow: [users/18042741/kelly-de-castro](https://stackoverflow.com/users/18042741/kelly-de-castro)
+🔗 Current focus: [data-lab.org](https://data‑lab.org/)
 
-Let’s connect! I'd love to explore how we can use data and DevOps to drive measurable impact together!
+Let’s connect! kelly(at)decastro.com
