@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/castrokelly)](https://www.linkedin.com/in/castrokelly/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kellydecastro)](https://kellydecastro.medium.com/)
 
-### About me
-
-I ask data the right questions to turn raw numbers into strategic decisions.
+### I ask data the right questions to turn raw numbers into strategic decisions.
 
 I work seamlessly across descriptive and inferential analysis, statistical modeling, Business Intelligence and data product development. My solid background in software engineering informs my CI/CD practices and enables me to contribute smoothly to Agile teams.
 
